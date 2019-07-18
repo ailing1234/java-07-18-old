@@ -1,0 +1,10 @@
+package com.ailing.sample;
+
+public class FinalRunner extends FinalClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

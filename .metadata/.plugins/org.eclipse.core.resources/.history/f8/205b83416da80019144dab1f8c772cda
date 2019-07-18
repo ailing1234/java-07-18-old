@@ -1,0 +1,17 @@
+package com.ailing.sample;
+
+public class TestClass implements inf2 {
+
+	@Override
+	public String whoAmI() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void testIt() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

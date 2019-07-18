@@ -1,0 +1,9 @@
+package com.ailing.sample;
+
+public class SampleA {
+
+	@Override
+	public String toString(){
+		return "SampleA";
+	}
+}

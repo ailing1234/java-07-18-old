@@ -1,0 +1,5 @@
+package com.ailing.sample;
+
+public interface inf2 extends inf1 {
+
+}
